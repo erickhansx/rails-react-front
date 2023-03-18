@@ -31,7 +31,7 @@
 
 # 📖 [Hello-Rails-React-Front] <a name="about-project"></a>
 
-**[Hello-Rails-React-Front]** is an app created using React as front end. It displays a random message retrieved from the api.
+**[Hello-Rails-React-Front]** is an app created using React as front end. It displays a random message retrieved from the api.[Link to Back-End repo](https://github.com/erickhansx/rails-react-back)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,8 +46,6 @@
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
 </details>
-
-<details>
 
 ### Key Features <a name="key-features"></a>
 
