@@ -140,11 +140,11 @@ If you like this project please leave a like on Github and share it with your fr
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank my family for their support.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
